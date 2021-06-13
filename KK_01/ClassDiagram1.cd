@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="KK_01.Form1">
+    <Position X="1" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAABRAACAAABAAAACAAABCAAAAAAAQQGZgAQgAAgA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KK_01.Komputer">
+    <Position X="7.25" Y="1.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Komputer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KK_01.Posiadacz">
+    <Position X="7.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAABEAAAAEAAAAAAAAAAAAAAABAAAAAABA=</HashCode>
+      <FileName>Posiadacz.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KK_01.Program">
+    <Position X="12.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KK_01.Tablica">
+    <Position X="4.25" Y="1" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AQACAAAFAgABAAAACAAAAIAAAgAAAARAAAAAAAhAQIA=</HashCode>
+      <FileName>Tablica.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KK_01.Properties.Resources">
+    <Position X="16" Y="1.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KK_01.Grafika">
+    <Position X="10.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAABAAAAAAAAEAAAAIAAAA=</HashCode>
+      <FileName>Grafika.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

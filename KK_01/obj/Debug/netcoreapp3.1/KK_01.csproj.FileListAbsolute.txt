@@ -1,0 +1,16 @@
+D:\uczelnia\sem_6\IO\Projekt\KK_01\KK_01\bin\Debug\netcoreapp3.1\KK_01.exe
+D:\uczelnia\sem_6\IO\Projekt\KK_01\KK_01\bin\Debug\netcoreapp3.1\KK_01.deps.json
+D:\uczelnia\sem_6\IO\Projekt\KK_01\KK_01\bin\Debug\netcoreapp3.1\KK_01.runtimeconfig.json
+D:\uczelnia\sem_6\IO\Projekt\KK_01\KK_01\bin\Debug\netcoreapp3.1\KK_01.runtimeconfig.dev.json
+D:\uczelnia\sem_6\IO\Projekt\KK_01\KK_01\bin\Debug\netcoreapp3.1\KK_01.dll
+D:\uczelnia\sem_6\IO\Projekt\KK_01\KK_01\bin\Debug\netcoreapp3.1\KK_01.pdb
+D:\uczelnia\sem_6\IO\Projekt\KK_01\KK_01\obj\Debug\netcoreapp3.1\KK_01.csprojAssemblyReference.cache
+D:\uczelnia\sem_6\IO\Projekt\KK_01\KK_01\obj\Debug\netcoreapp3.1\KK_01.Form1.resources
+D:\uczelnia\sem_6\IO\Projekt\KK_01\KK_01\obj\Debug\netcoreapp3.1\KK_01.csproj.GenerateResource.cache
+D:\uczelnia\sem_6\IO\Projekt\KK_01\KK_01\obj\Debug\netcoreapp3.1\KK_01.AssemblyInfoInputs.cache
+D:\uczelnia\sem_6\IO\Projekt\KK_01\KK_01\obj\Debug\netcoreapp3.1\KK_01.AssemblyInfo.cs
+D:\uczelnia\sem_6\IO\Projekt\KK_01\KK_01\obj\Debug\netcoreapp3.1\KK_01.csproj.CoreCompileInputs.cache
+D:\uczelnia\sem_6\IO\Projekt\KK_01\KK_01\obj\Debug\netcoreapp3.1\KK_01.dll
+D:\uczelnia\sem_6\IO\Projekt\KK_01\KK_01\obj\Debug\netcoreapp3.1\KK_01.pdb
+D:\uczelnia\sem_6\IO\Projekt\KK_01\KK_01\obj\Debug\netcoreapp3.1\KK_01.genruntimeconfig.cache
+D:\uczelnia\sem_6\IO\Projekt\KK_01\KK_01\obj\Debug\netcoreapp3.1\KK_01.Properties.Resources.resources
